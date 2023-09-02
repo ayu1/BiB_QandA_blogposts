@@ -1,1 +1,1 @@
-# BiB_QandA_blogposts
+# Bits in Bio Q&A Blog Posts
